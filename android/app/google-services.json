@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866422413963",
+    "project_id": "asu-carpool-app",
+    "storage_bucket": "asu-carpool-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866422413963:android:e4c26dc8d162e99743128e",
+        "android_client_info": {
+          "package_name": "com.pickme.pickme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_IuvVU0gElujsstpjF8c6gUr1pB2H4OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
